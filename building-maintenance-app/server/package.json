@@ -1,0 +1,14 @@
+{
+  "name": "building-maintenance-app-express",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41"
+  }
+}
